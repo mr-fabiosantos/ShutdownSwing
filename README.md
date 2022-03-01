@@ -6,4 +6,4 @@
  
 
 ##### Informações úteis
- - Caso desejar, poderá baixar o programa compilado aqui: [Download da ShutdownSwing](https://github.com/mr-fabiosantos/ShutdownSwing/blob/main/dist/ShutdownSwing.jar)
+ - Caso desejar, poderá baixar o programa compilado aqui: [Download da ShutdownSwing](https://github.com/mr-fabiosantos/ShutdownSwing/raw/main/dist/ShutdownSwing.jar)
